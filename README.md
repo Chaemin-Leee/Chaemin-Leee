@@ -1,9 +1,5 @@
 
-### Hi there! I'm Chaemin-Leee.  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+### Hi there! I'm Chaemin-Leee.    
 - 🏫 I'm a <b>Computer Science major</b>.   
 - ✍️ I started <u>studying</u> <b>Web Develop</b> in 2021. I have laid the ground work for <i>Full Stack Developer</i>!  
  - 📱 I'm also <u>interested in</u> <b>Mobile App Development</b>.  Actually, I'm working on the team project about this.  
